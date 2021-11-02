@@ -136,3 +136,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+git config --global user.email "elizabethokumu92@gmail.com"
